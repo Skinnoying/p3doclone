@@ -1,2 +1,4 @@
 # p3doclone
-Tugas Pak Ardi, bayar lewat donate woi
+Spesialis clone project.
+
+Tugas Pak Ardi, bayar lewat donate woi.. susah suah gw ngerjain nya
